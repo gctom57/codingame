@@ -1,8 +1,5 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
-import java.util.Arrays;
-import java.util.stream.Stream;
+import java.util.Scanner;
+import java.util.Stack;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -10,11 +7,11 @@ import java.util.stream.Stream;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String expression = in.next();
 
-        Stack<Character> stack = new Stack<Character>();
+        Stack<Character> stack = new Stack<>();
 
         boolean found = true;
         for (Character c : expression.toCharArray()) {
