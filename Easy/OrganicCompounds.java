@@ -1,7 +1,4 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
-import java.util.stream.IntStream;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -9,7 +6,7 @@ import java.util.stream.IntStream;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
         in.nextLine();
@@ -26,19 +23,19 @@ class Solution {
                     int bonds = Integer.parseInt("" + compounds[i].charAt(j + 2));
                     try {
                         bonds += Integer.parseInt("" + compounds[i - 1].charAt(j + 1));
-                    } catch (Exception e) {
+                    } catch (Exception ignored) {
                     }//Don't like it but it's easier
                     try {
                         bonds += Integer.parseInt("" + compounds[i + 1].charAt(j + 1));
-                    } catch (Exception e) {
+                    } catch (Exception ignored) {
                     }
                     try {
                         bonds += Integer.parseInt("" + compounds[i].charAt(j - 2));
-                    } catch (Exception e) {
+                    } catch (Exception ignored) {
                     }
                     try {
                         bonds += Integer.parseInt("" + compounds[i].charAt(j + 4));
-                    } catch (Exception e) {
+                    } catch (Exception ignored) {
                     }
                     if (bonds != 4) {
                         found = false;
