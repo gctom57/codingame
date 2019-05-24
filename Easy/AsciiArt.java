@@ -1,15 +1,10 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
 class Solution {
-    static Map<String, List<String>> asciiArts = new HashMap();
-
-
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int L = in.nextInt();
