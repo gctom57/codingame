@@ -1,6 +1,4 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,7 +6,7 @@ import java.math.*;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         long r1 = in.nextLong();
         long r2 = in.nextLong();
@@ -27,7 +25,7 @@ class Solution {
         System.out.println(r1);
     }
 
-    public static long nextRiver(long n) {
+    private static long nextRiver(long n) {
         long s = n;
         while (s > 0) {
             n = n + (s % 10);
