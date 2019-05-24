@@ -1,6 +1,7 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,7 +9,7 @@ import java.math.*;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
         Integer[][] cities = new Integer[N][2];
@@ -19,7 +20,7 @@ class Solution {
         }
 
         Integer[] coord = cities[0];
-        List<Integer[]> list = new ArrayList(Arrays.asList(cities));
+        List<Integer[]> list = new ArrayList<>(Arrays.asList(cities));
         list.remove(0);
 
         Double total = 0.0;
