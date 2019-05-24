@@ -22,20 +22,24 @@ class Solution {
         boolean found = true;
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < compounds[i].length() - 2; j++) {
-                if (compounds[i].substring(j, j+2).equals("CH")) {
-                    int bonds = Integer.parseInt(""+compounds[i].charAt(j+2));
+                if (compounds[i].substring(j, j + 2).equals("CH")) {
+                    int bonds = Integer.parseInt("" + compounds[i].charAt(j + 2));
                     try {
-                        bonds += Integer.parseInt(""+compounds[i-1].charAt(j+1));
-                    } catch (Exception e) {}//Don't like it but it's easier
+                        bonds += Integer.parseInt("" + compounds[i - 1].charAt(j + 1));
+                    } catch (Exception e) {
+                    }//Don't like it but it's easier
                     try {
-                        bonds += Integer.parseInt(""+compounds[i+1].charAt(j+1));
-                    } catch (Exception e) {}
+                        bonds += Integer.parseInt("" + compounds[i + 1].charAt(j + 1));
+                    } catch (Exception e) {
+                    }
                     try {
-                        bonds += Integer.parseInt(""+compounds[i].charAt(j-2));
-                    } catch (Exception e) {}
+                        bonds += Integer.parseInt("" + compounds[i].charAt(j - 2));
+                    } catch (Exception e) {
+                    }
                     try {
-                        bonds += Integer.parseInt(""+compounds[i].charAt(j+4));
-                    } catch (Exception e) {}
+                        bonds += Integer.parseInt("" + compounds[i].charAt(j + 4));
+                    } catch (Exception e) {
+                    }
                     if (bonds != 4) {
                         found = false;
                     }
