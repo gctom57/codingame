@@ -1,6 +1,5 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.io.UnsupportedEncodingException;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,36 +7,36 @@ import java.math.*;
  **/
 class Solution {
 
-    public static void main(String args[]) throws UnsupportedEncodingException {
+    public static void main(String[] args) throws UnsupportedEncodingException {
         Scanner in = new Scanner(System.in);
         String MESSAGE = in.nextLine();
 
-        String binString = "";
+        StringBuilder binString = new StringBuilder();
         for (byte b : MESSAGE.getBytes()) {
-            String tmp = Integer.toBinaryString(b);
+            StringBuilder tmp = new StringBuilder(Integer.toBinaryString(b));
             while (tmp.length() < 7) {
-                tmp = "0" + tmp;
+                tmp.insert(0, "0");
             }
 
-            binString += tmp;
+            binString.append(tmp);
         }
 
         char currentValue = ' ';
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
-        for (char c : binString.toCharArray()) {
+        for (char c : binString.toString().toCharArray()) {
             if (currentValue != c) {
                 if (c == '1') {
-                    result += " 0 0";
+                    result.append(" 0 0");
                 } else {
-                    result += " 00 0";
+                    result.append(" 00 0");
                 }
                 currentValue = c;
             } else {
-                result += "0";
+                result.append("0");
             }
         }
 
-        System.out.println(result.trim());
+        System.out.println(result.toString().trim());
     }
 }
