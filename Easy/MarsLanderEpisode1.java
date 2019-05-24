@@ -1,6 +1,4 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,7 +6,7 @@ import java.math.*;
  **/
 class Player {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int surfaceN = in.nextInt(); // the number of points used to draw the surface of Mars.
         for (int i = 0; i < surfaceN; i++) {
