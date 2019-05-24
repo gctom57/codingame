@@ -1,6 +1,7 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,7 +9,7 @@ import java.math.*;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
 
@@ -25,7 +26,7 @@ class Solution {
         downFirst(root);
     }
 
-    public static void downFirst(Node node) {
+    private static void downFirst(Node node) {
         if (node.isVisible()) {
             System.out.println(node.name);
         }
@@ -55,10 +56,10 @@ class Node {
         this.alive = in.next().equals("-");
         this.religion = in.next();
         this.gender = in.next();
-        children = new ArrayList();
+        children = new ArrayList<>();
     }
 
-    public boolean addNode(Node node) {
+    boolean addNode(Node node) {
         if (node.parent.equals("-")) {
             return false;
         } else if (node.parent.equals(this.name)) {
@@ -66,8 +67,8 @@ class Node {
             this.children.sort(Comparator.comparing(Node::getGender).reversed().thenComparing(Node::getBirth));
             return true;
         } else {
-            for (int i = 0; i < children.size(); i++) {
-                boolean b = children.get(i).addNode(node);
+            for (Node child : children) {
+                boolean b = child.addNode(node);
                 if (b) {
                     return true;
                 }
@@ -77,27 +78,27 @@ class Node {
         return false;
     }
 
-    public boolean hasChildren() {
+    boolean hasChildren() {
         return !children.isEmpty();
     }
 
-    public String getGender() {
+    private String getGender() {
         return gender;
     }
 
-    public Integer getBirth() {
+    private Integer getBirth() {
         return birth;
     }
 
-    public boolean isAlive() {
+    private boolean isAlive() {
         return this.alive;
     }
 
-    public boolean isAnglican() {
+    private boolean isAnglican() {
         return religion.equals("Anglican");
     }
 
-    public boolean isVisible() {
+    boolean isVisible() {
         return isAlive() && isAnglican();
     }
 }
