@@ -1,6 +1,4 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -10,7 +8,7 @@ import java.math.*;
  **/
 class Player {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int lightX = in.nextInt(); // the X position of the light of power
         int lightY = in.nextInt(); // the Y position of the light of power
@@ -19,8 +17,6 @@ class Player {
 
         // game loop
         while (true) {
-            int remainingTurns = in.nextInt(); // The remaining amount of turns Thor can move. Do not remove this line.
-
             String direction = "";
 
             if (lightY < initialTY) {
