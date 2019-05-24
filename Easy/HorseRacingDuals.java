@@ -1,6 +1,7 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -8,11 +9,11 @@ import java.math.*;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
 
-        List<Integer> horses = new ArrayList();
+        List<Integer> horses = new ArrayList<>();
         for (int i = 0; i < N; i++) {
             int pi = in.nextInt();
             horses.add(pi);
