@@ -1,6 +1,4 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 /**
  * The while loop represents the game.
@@ -11,7 +9,7 @@ import java.math.*;
  **/
 class Player {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
         // game loop
