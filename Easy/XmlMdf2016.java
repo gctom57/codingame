@@ -1,6 +1,6 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -10,7 +10,7 @@ class Solution {
 
     private static HashMap<Character, Double> weight = new HashMap<>();
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String sequence = in.nextLine();
 
@@ -36,6 +36,6 @@ class Solution {
             }
         }
 
-        System.out.println(max.getKey());
+        System.out.println(max != null ? max.getKey() : null);
     }
 }
