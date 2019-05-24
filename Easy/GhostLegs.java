@@ -1,6 +1,4 @@
 import java.util.*;
-import java.io.*;
-import java.math.*;
 import java.util.stream.IntStream;
 
 /**
@@ -8,12 +6,7 @@ import java.util.stream.IntStream;
  * the standard input according to the problem statement.
  **/
 class Solution {
-
-    private static String[][] diag;
-    // Position of first line of array and current position
-    private static Map<Integer, Integer> map = new HashMap<>();
-
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int W = in.nextInt();
         int H = in.nextInt();
@@ -21,7 +14,7 @@ class Solution {
             in.nextLine();
         }
 
-        List<String> ROWS = new ArrayList();
+        List<String> ROWS = new ArrayList<>();
 
         for (int i = 0; i < H; i++) {
             ROWS.add(in.nextLine());
@@ -30,7 +23,7 @@ class Solution {
         IntStream.range(0, W).filter(j -> j % 3 == 0).forEach(j -> {
 
             int position = j;
-            Character character = 'A';
+            char character = 'A';
 
             for (int i = 0; i < ROWS.size(); i++) {
                 if (i == 0) {
