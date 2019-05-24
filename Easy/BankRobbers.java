@@ -1,6 +1,5 @@
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -10,7 +9,6 @@ class Solution {
 
     static int nbDigit = 10;
     static int nbVowels = 5;
-    static Map<Integer, Integer> robberUsage = new HashMap();
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
@@ -22,8 +20,8 @@ class Solution {
             int C = in.nextInt();
             int N = in.nextInt();
 
-            int combinaison = (int) Math.pow(nbDigit, N) * (int) Math.pow(nbVowels, (C - N));
-            robbers[0] += combinaison;
+            int combination = (int) Math.pow(nbDigit, N) * (int) Math.pow(nbVowels, (C - N));
+            robbers[0] += combination;
             Arrays.sort(robbers);
         }
 
