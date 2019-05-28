@@ -27,7 +27,6 @@ class Player {
             elevatorFloors.put(elevatorFloor, elevatorPos);
         }
 
-
         // game loop
         while (true) {
             int cloneFloor = in.nextInt(); // floor of the leading clone
