@@ -1,5 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -18,34 +16,21 @@ class Player {
         int nbTotalClones = in.nextInt(); // number of generated clones
         int nbAdditionalElevators = in.nextInt(); // ignore (always zero)
         int nbElevators = in.nextInt(); // number of elevators
-        Map<Integer, Integer> elevatorFloors = new HashMap<>();
-        elevatorFloors.put(exitFloor, exitPos);
+        int[] floors = new int[nbElevators+1];
+        floors[exitFloor] = exitPos;
         for (int i = 0; i < nbElevators; i++) {
-
-            int elevatorFloor = in.nextInt(); // floor on which this elevator is found
-            int elevatorPos = in.nextInt(); // position of the elevator on its floor
-            elevatorFloors.put(elevatorFloor, elevatorPos);
+            floors[in.nextInt()] = in.nextInt();
         }
 
         // game loop
         while (true) {
-            int cloneFloor = in.nextInt(); // floor of the leading clone
-            int clonePos = in.nextInt(); // position of the leading clone on its floor
-            String direction = in.next(); // direction of the leading clone: LEFT or RIGHT
+            int floor = in.nextInt(); // floor of the leading clone
+            int pos = in.nextInt(); // position of the leading clone on its floor
+            int dir = in.next().compareTo("NONE"); // direction of the leading clone: LEFT or RIGHT
 
-            boolean block = false;
-            if (cloneFloor >= 0) {
-                switch (direction) {
-                    case "LEFT":
-                        block = clonePos < elevatorFloors.get(cloneFloor);
-                        break;
-                    case "RIGHT":
-                        block = clonePos > elevatorFloors.get(cloneFloor);
-                        break;
-                }
-            }
+            boolean block = (floor >= 0) && (dir < 1 ? pos < floors[floor] : dir > 1 && pos > floors[floor]);
 
-            System.out.println(block ? "BLOCK" : "WAIT");
+            System.out.println(block  ? "BLOCK" : "WAIT");
         }
     }
 }
