@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  **/
 class Solution {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int tributes = in.nextInt();
         in.nextLine();
