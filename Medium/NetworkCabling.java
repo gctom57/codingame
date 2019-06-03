@@ -27,18 +27,11 @@ class Solution {
 
         Arrays.sort(ys);
 
-        int medianY;
-        if (ys.length % 2 == 1) {
-            medianY = ys[ys.length / 2];
-        } else {
-            medianY = (ys[ys.length / 2 - 1] + ys[ys.length / 2]) / 2;
-        }
+        int medianY = ys[ys.length / 2];
 
         long total = Math.abs(maxX - minX);
-
-        for (int i = 0; i < N; i++) {
-            long currentDiff = Math.abs(ys[i] - medianY);
-            total += currentDiff;
+        for (int i : ys) {
+            total += Math.abs(i - medianY);
         }
 
         System.out.println(total);
