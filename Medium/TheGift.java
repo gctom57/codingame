@@ -23,26 +23,12 @@ class Solution {
             System.out.println("IMPOSSIBLE");
             return;
         }
-
-        List<Integer> repartitions = new ArrayList<>();
-
-        Iterator<Integer> iter = budgets.iterator();
+        
         while(budgets.size() > 0) {
             int mean = C / budgets.size();
-
-            int current = budgets.poll();
-
-            if (current < mean) {
-                repartitions.add(current);
-                C -= current;
-            } else {
-                repartitions.add(mean);
-                C -= mean;
-            }
-        }
-
-        for (Integer i : repartitions) {
-            System.out.println(i);
+            int current = Math.min(budgets.poll(), mean);
+            System.out.println(current);
+            C -= current;
         }
     }
 }
