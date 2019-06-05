@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.io/gctom57/codingame.svg)](http://hits.dwyl.io/gctom57/codingame)
 
-A list of solutions for the different challenges available on the codingame plateform.
+A list of solutions for the different challenges available on [codingame](https://www.codingame.com/).
 
 ## EASY
 
