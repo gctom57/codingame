@@ -11,6 +11,7 @@ class Solution {
         int N = in.nextInt();
         int M = in.nextInt();
         long X = in.nextLong();
+        
         List<Horse> horses = new ArrayList<>(N + M);
         for (int i = 0; i < N; i++) {
             horses.add(new Horse(in.nextLong(), in.nextLong()));
