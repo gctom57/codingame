@@ -82,6 +82,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [ShadowsOfTheKnightEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/ShadowsOfTheKnightEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
 - [ShortAccountsMakeLongFriends.java](https://github.com/gctom57/codingame/blob/master/Medium/ShortAccountsMakeLongFriends.java) [![url](link.png)](https://www.codingame.com/training/medium/short-accounts-make-long-friends)
 - [SkynetRevolutionEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/SkynetRevolutionEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/skynet-revolution-episode-1)
+- [SnakeEncoding.java](https://github.com/gctom57/codingame/blob/master/Medium/SnakeEncoding.java) [![url](link.png)](https://www.codingame.com/training/medium/snake-encoding)
 - [StallTilt.java](https://github.com/gctom57/codingame/blob/master/Medium/StallTilt.java) [![url](link.png)](https://www.codingame.com/training/medium/stall-tilt)
 - [StockExchangeLosses.java](https://github.com/gctom57/codingame/blob/master/Medium/StockExchangeLosses.java) [![url](link.png)](https://www.codingame.com/training/medium/stock-exchange-losses)
 - [TelephoneNumbers.java](https://github.com/gctom57/codingame/blob/master/Medium/TelephoneNumbers.java) [![url](link.png)](https://www.codingame.com/training/medium/telephone-numbers)
