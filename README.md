@@ -72,6 +72,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [FoldingPaper.java](https://github.com/gctom57/codingame/blob/master/Medium/FoldingPaper.java) [![url](link.png)](https://www.codingame.com/training/medium/folding-paper)
 - [GoroWantChocolate.java](https://github.com/gctom57/codingame/blob/master/Medium/GoroWantChocolate.java) [![url](link.png)](https://www.codingame.com/training/medium/goro-want-chocolate)
 - [HorseHyperracingHyperduals.java](https://github.com/gctom57/codingame/blob/master/Medium/HorseHyperracingHyperduals.java) [![url](link.png)](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals)
+- [JumpingFrogs.java](https://github.com/gctom57/codingame/blob/master/Medium/JumpingFrogs.java) [![url](link.png)](https://www.codingame.com/training/medium/jumping-frogs)
 - [MayanCalculation.java](https://github.com/gctom57/codingame/blob/master/Medium/MayanCalculation.java) [![url](link.png)](https://www.codingame.com/training/medium/mayan-calculation)
 - [MicroAssembly.java](https://github.com/gctom57/codingame/blob/master/Medium/MicroAssembly.java) [![url](link.png)](https://www.codingame.com/training/medium/micro-assembly)
 - [NetworkCabling.java](https://github.com/gctom57/codingame/blob/master/Medium/NetworkCabling.java) [![url](link.png)](https://www.codingame.com/training/medium/network-cabling)
