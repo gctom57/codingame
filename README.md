@@ -92,4 +92,5 @@ A list of solutions for the different challenges available on [codingame](https:
 - [TheLastCrusadeEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/TheLastCrusadeEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/the-last-crusade-episode-1)
 - [TheOptimalUrinalProblem.java](https://github.com/gctom57/codingame/blob/master/Medium/TheOptimalUrinalProblem.java) [![url](link.png)](https://www.codingame.com/training/medium/the-optimal-urinal-problem)
 - [ThereIsNoSpoonEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/ThereIsNoSpoonEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
+- [TritsBalancedTernaryComputing.java](https://github.com/gctom57/codingame/blob/master/Medium/TritsBalancedTernaryComputing.java) [![url](link.png)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)
 - [WinamaxBattle.java](https://github.com/gctom57/codingame/blob/master/Medium/WinamaxBattle.java) [![url](link.png)](https://www.codingame.com/training/medium/winamax-battle)
