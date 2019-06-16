@@ -79,6 +79,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [RegularPolygons.java](https://github.com/gctom57/codingame/blob/master/Medium/RegularPolygons.java) [![url](link.png)](https://www.codingame.com/training/medium/regular-polygons)
 - [RoadTrip.java](https://github.com/gctom57/codingame/blob/master/Medium/RoadTrip.java) [![url](link.png)](https://www.codingame.com/training/medium/road-trip)
 - [RobberyOptimisation.java](https://github.com/gctom57/codingame/blob/master/Medium/RobberyOptimisation.java) [![url](link.png)](https://www.codingame.com/training/medium/robbery-optimisation)
+- [Rotatetris.java](https://github.com/gctom57/codingame/blob/master/Medium/Rotatetris.java) [![url](link.png)](https://www.codingame.com/training/medium/rotatetris)
 - [Scrabble.java](https://github.com/gctom57/codingame/blob/master/Medium/Scrabble.java) [![url](link.png)](https://www.codingame.com/training/medium/scrabble)
 - [ShadowsOfTheKnightEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/ShadowsOfTheKnightEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
 - [ShortAccountsMakeLongFriends.java](https://github.com/gctom57/codingame/blob/master/Medium/ShortAccountsMakeLongFriends.java) [![url](link.png)](https://www.codingame.com/training/medium/short-accounts-make-long-friends)
