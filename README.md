@@ -95,3 +95,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [ThereIsNoSpoonEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/ThereIsNoSpoonEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
 - [TritsBalancedTernaryComputing.java](https://github.com/gctom57/codingame/blob/master/Medium/TritsBalancedTernaryComputing.java) [![url](link.png)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)
 - [WinamaxBattle.java](https://github.com/gctom57/codingame/blob/master/Medium/WinamaxBattle.java) [![url](link.png)](https://www.codingame.com/training/medium/winamax-battle)
+
+## VERY HARD
+
+- [MusicScores.java](https://github.com/gctom57/codingame/blob/master/VeryHard/MusicScores.java) [![url](link.png)](https://www.codingame.com/training/expert/music-scores)
