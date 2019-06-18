@@ -70,6 +70,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [DontPanicEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/DontPanicEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/dont-panic-episode-1-)
 - [DwarfsStandingOnTheShouldersOfGiants.java](https://github.com/gctom57/codingame/blob/master/Medium/DwarfsStandingOnTheShouldersOfGiants.java) [![url](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
 - [FoldingPaper.java](https://github.com/gctom57/codingame/blob/master/Medium/FoldingPaper.java) [![url](link.png)](https://www.codingame.com/training/medium/folding-paper)
+- [ForestFire.java](https://github.com/gctom57/codingame/blob/master/Medium/ForestFire.java) [![url](link.png)](https://www.codingame.com/training/medium/forest-fire)
 - [GoroWantChocolate.java](https://github.com/gctom57/codingame/blob/master/Medium/GoroWantChocolate.java) [![url](link.png)](https://www.codingame.com/training/medium/goro-want-chocolate)
 - [HorseHyperracingHyperduals.java](https://github.com/gctom57/codingame/blob/master/Medium/HorseHyperracingHyperduals.java) [![url](link.png)](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals)
 - [JumpingFrogs.java](https://github.com/gctom57/codingame/blob/master/Medium/JumpingFrogs.java) [![url](link.png)](https://www.codingame.com/training/medium/jumping-frogs)
