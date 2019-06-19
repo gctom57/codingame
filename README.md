@@ -69,6 +69,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [DigitSumSuccessor2.java](https://github.com/gctom57/codingame/blob/master/Medium/DigitSumSuccessor2.java) [![url](link.png)](https://www.codingame.com/training/medium/digit-sum-successor)
 - [DontPanicEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/DontPanicEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/dont-panic-episode-1-)
 - [DwarfsStandingOnTheShouldersOfGiants.java](https://github.com/gctom57/codingame/blob/master/Medium/DwarfsStandingOnTheShouldersOfGiants.java) [![url](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
+- [ElementaryCellularAutomaton.java](https://github.com/gctom57/codingame/blob/master/Medium/ElementaryCellularAutomaton.java) [![url](link.png)](https://www.codingame.com/training/medium/https://www.codingame.com/training/medium/elementary-cellular-automaton)
 - [FactorialVsExponential.java](https://github.com/gctom57/codingame/blob/master/Medium/FactorialVsExponential.java) [![url](link.png)](https://www.codingame.com/training/medium/factorial-vs-exponential)
 - [FindTheWinningStrategy.java](https://github.com/gctom57/codingame/blob/master/Medium/FindTheWinningStrategy.java) [![url](link.png)](https://www.codingame.com/training/medium/find-the-winning-strategy)
 - [FoldingPaper.java](https://github.com/gctom57/codingame/blob/master/Medium/FoldingPaper.java) [![url](link.png)](https://www.codingame.com/training/medium/folding-paper)
