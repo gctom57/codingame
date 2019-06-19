@@ -70,6 +70,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [DontPanicEpisode1.java](https://github.com/gctom57/codingame/blob/master/Medium/DontPanicEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/dont-panic-episode-1-)
 - [DwarfsStandingOnTheShouldersOfGiants.java](https://github.com/gctom57/codingame/blob/master/Medium/DwarfsStandingOnTheShouldersOfGiants.java) [![url](link.png)](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
 - [FactorialVsExponential.java](https://github.com/gctom57/codingame/blob/master/Medium/FactorialVsExponential.java) [![url](link.png)](https://www.codingame.com/training/medium/factorial-vs-exponential)
+- [FindTheWinningStrategy.java](https://github.com/gctom57/codingame/blob/master/Medium/FindTheWinningStrategy.java) [![url](link.png)](https://www.codingame.com/training/medium/find-the-winning-strategy)
 - [FoldingPaper.java](https://github.com/gctom57/codingame/blob/master/Medium/FoldingPaper.java) [![url](link.png)](https://www.codingame.com/training/medium/folding-paper)
 - [ForestFire.java](https://github.com/gctom57/codingame/blob/master/Medium/ForestFire.java) [![url](link.png)](https://www.codingame.com/training/medium/forest-fire)
 - [GoroWantChocolate.java](https://github.com/gctom57/codingame/blob/master/Medium/GoroWantChocolate.java) [![url](link.png)](https://www.codingame.com/training/medium/goro-want-chocolate)
