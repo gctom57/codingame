@@ -66,6 +66,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [Bender Episode 1](https://github.com/gctom57/codingame/blob/master/Medium/BenderEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/bender-episode-1)
 - [CG Funge Interpreter](https://github.com/gctom57/codingame/blob/master/Medium/CGFungeInterpreter.java) [![url](link.png)](https://www.codingame.com/training/medium/cgfunge-interpreter)
 - [Conway Sequence](https://github.com/gctom57/codingame/blob/master/Medium/ConwaySequence.java) [![url](link.png)](https://www.codingame.com/training/medium/conway-sequence)
+- [Depot Organization](https://github.com/gctom57/codingame/blob/master/Medium/DepotOrganization.java) [![url](link.png)](https://www.codingame.com/training/medium/depot-organization)
 - [Dice Probability Calculator](https://github.com/gctom57/codingame/blob/master/Medium/DiceProbabilityCalculator.java) [![url](link.png)](https://www.codingame.com/training/medium/dice-probability-calculator)
 - [Digit SumSuccessor](https://github.com/gctom57/codingame/blob/master/Medium/DigitSumSuccessor.java) [![url](link.png)](https://www.codingame.com/training/medium/digit-sum-successor)
 - [Digit SumSuccessor 2](https://github.com/gctom57/codingame/blob/master/Medium/DigitSumSuccessor2.java) [![url](link.png)](https://www.codingame.com/training/medium/digit-sum-successor)
