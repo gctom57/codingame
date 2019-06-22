@@ -6,6 +6,8 @@ A list of solutions for the different challenges available on [codingame](https:
 
 ## EASY
 
+
+- [1D Spreadsheet](https://github.com/gctom57/codingame/blob/master/Easy/OneDSpreadsheet.java) [![url](link.png)](https://www.codingame.com/training/easy/1d-spreadsheet)
 - [Addem Up](https://github.com/gctom57/codingame/blob/master/Easy/AddemUp.java) [![url](link.png)](https://www.codingame.com/training/easy/addem-up) 
 - [Ascii Art](https://github.com/gctom57/codingame/blob/master/Easy/AsciiArt.java) [![url](link.png)](https://www.codingame.com/training/easy/ascii-art) 
 - [Balanced Ternary Computer Encode](https://github.com/gctom57/codingame/blob/master/Easy/BalancedTernaryComputerEncode.java) [![url](link.png)](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) 
