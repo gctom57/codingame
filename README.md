@@ -83,6 +83,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [Mayan Calculation](https://github.com/gctom57/codingame/blob/master/Medium/MayanCalculation.java) [![url](link.png)](https://www.codingame.com/training/medium/mayan-calculation)
 - [Micro Assembly](https://github.com/gctom57/codingame/blob/master/Medium/MicroAssembly.java) [![url](link.png)](https://www.codingame.com/training/medium/micro-assembly)
 - [Network Cabling](https://github.com/gctom57/codingame/blob/master/Medium/NetworkCabling.java) [![url](link.png)](https://www.codingame.com/training/medium/network-cabling)
+- [Number Of Letters In A Number Binary](https://github.com/gctom57/codingame/blob/master/Medium/NumberOfLettersInANumberBinary.java) [![url](link.png)](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary)
 - [Regular Polygons](https://github.com/gctom57/codingame/blob/master/Medium/RegularPolygons.java) [![url](link.png)](https://www.codingame.com/training/medium/regular-polygons)
 - [Road Trip](https://github.com/gctom57/codingame/blob/master/Medium/RoadTrip.java) [![url](link.png)](https://www.codingame.com/training/medium/road-trip)
 - [Robbery Optimisation](https://github.com/gctom57/codingame/blob/master/Medium/RobberyOptimisation.java) [![url](link.png)](https://www.codingame.com/training/medium/robbery-optimisation)
