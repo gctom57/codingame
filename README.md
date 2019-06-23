@@ -80,6 +80,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [Goro Want Chocolate](https://github.com/gctom57/codingame/blob/master/Medium/GoroWantChocolate.java) [![url](link.png)](https://www.codingame.com/training/medium/goro-want-chocolate)
 - [Horse Hyperracing Hyperduals](https://github.com/gctom57/codingame/blob/master/Medium/HorseHyperracingHyperduals.java) [![url](link.png)](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals)
 - [Jumping Frogs](https://github.com/gctom57/codingame/blob/master/Medium/JumpingFrogs.java) [![url](link.png)](https://www.codingame.com/training/medium/jumping-frogs)
+- [Length Of Syracuse Conjecture Sequence](https://github.com/gctom57/codingame/blob/master/Medium/LengthOfSyracuseConjectureSequence.java) [![url](link.png)](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)
 - [Mayan Calculation](https://github.com/gctom57/codingame/blob/master/Medium/MayanCalculation.java) [![url](link.png)](https://www.codingame.com/training/medium/mayan-calculation)
 - [Micro Assembly](https://github.com/gctom57/codingame/blob/master/Medium/MicroAssembly.java) [![url](link.png)](https://www.codingame.com/training/medium/micro-assembly)
 - [Network Cabling](https://github.com/gctom57/codingame/blob/master/Medium/NetworkCabling.java) [![url](link.png)](https://www.codingame.com/training/medium/network-cabling)
