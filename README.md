@@ -97,6 +97,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [Snake Encoding](https://github.com/gctom57/codingame/blob/master/Medium/SnakeEncoding.java) [![url](link.png)](https://www.codingame.com/training/medium/snake-encoding)
 - [Stall Tilt](https://github.com/gctom57/codingame/blob/master/Medium/StallTilt.java) [![url](link.png)](https://www.codingame.com/training/medium/stall-tilt)
 - [Stock Exchange Losses](https://github.com/gctom57/codingame/blob/master/Medium/StockExchangeLosses.java) [![url](link.png)](https://www.codingame.com/training/medium/stock-exchange-losses)
+- [Sudoku Solver](https://github.com/gctom57/codingame/blob/master/Medium/SudokuSolver.java) [![url](link.png)](https://www.codingame.com/training/medium/sudoku-solver)
 - [Telephone Numbers](https://github.com/gctom57/codingame/blob/master/Medium/TelephoneNumbers.java) [![url](link.png)](https://www.codingame.com/training/medium/telephone-numbers)
 - [The Gift](https://github.com/gctom57/codingame/blob/master/Medium/TheGift.java) [![url](link.png)](https://www.codingame.com/training/medium/the-gift)
 - [The Grand Festival1](https://github.com/gctom57/codingame/blob/master/Medium/TheGrandFestival1.java) [![url](link.png)](https://www.codingame.com/training/medium/the-grand-festival---i)
