@@ -80,6 +80,7 @@ A list of solutions for the different challenges available on [codingame](https:
 - [Folding Paper](https://github.com/gctom57/codingame/blob/master/Medium/FoldingPaper.java) [![url](link.png)](https://www.codingame.com/training/medium/folding-paper)
 - [Forest Fire](https://github.com/gctom57/codingame/blob/master/Medium/ForestFire.java) [![url](link.png)](https://www.codingame.com/training/medium/forest-fire)
 - [Goro Want Chocolate](https://github.com/gctom57/codingame/blob/master/Medium/GoroWantChocolate.java) [![url](link.png)](https://www.codingame.com/training/medium/goro-want-chocolate)
+- [Gravity Centrifuge Tuning](https://github.com/gctom57/codingame/blob/master/Medium/GravityCentrifugeTuning.java) [![url](link.png)](https://www.codingame.com/training/medium/gravity-centrifuge-tuning)
 - [Horse Hyperracing Hyperduals](https://github.com/gctom57/codingame/blob/master/Medium/HorseHyperracingHyperduals.java) [![url](link.png)](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals)
 - [Jumping Frogs](https://github.com/gctom57/codingame/blob/master/Medium/JumpingFrogs.java) [![url](link.png)](https://www.codingame.com/training/medium/jumping-frogs)
 - [Length Of Syracuse Conjecture Sequence](https://github.com/gctom57/codingame/blob/master/Medium/LengthOfSyracuseConjectureSequence.java) [![url](link.png)](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)
