@@ -8,7 +8,8 @@ A list of solutions for the different challenges available on [codingame](https:
 
 
 - [1D Spreadsheet](https://github.com/gctom57/codingame/blob/master/Easy/OneDSpreadsheet.java) [![url](link.png)](https://www.codingame.com/training/easy/1d-spreadsheet)
-- [Addem Up](https://github.com/gctom57/codingame/blob/master/Easy/AddemUp.java) [![url](link.png)](https://www.codingame.com/training/easy/addem-up) 
+- [Addem Up](https://github.com/gctom57/codingame/blob/master/Easy/AddemUp.java) [![url](link.png)](https://www.codingame.com/training/easy/addem-up)
+- [Are The Clumps Normal](https://github.com/gctom57/codingame/blob/master/Easy/AreTheClumpsNormal.java) [![url](link.png)](https://www.codingame.com/ide/puzzle/are-the-clumps-normal)
 - [Ascii Art](https://github.com/gctom57/codingame/blob/master/Easy/AsciiArt.java) [![url](link.png)](https://www.codingame.com/training/easy/ascii-art) 
 - [Balanced Ternary Computer Encode](https://github.com/gctom57/codingame/blob/master/Easy/BalancedTernaryComputerEncode.java) [![url](link.png)](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) 
 - [Bank Robbers](https://github.com/gctom57/codingame/blob/master/Easy/BankRobbers.java) [![url](link.png)](https://www.codingame.com/training/easy/bank-robbers) 
