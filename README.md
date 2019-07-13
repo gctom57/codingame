@@ -68,6 +68,7 @@ A list of solutions for the different challenges available on [codingame](https:
 
 ## MEDIUM
 
+- [A Childs Play](https://github.com/gctom57/codingame/blob/master/Medium/AChildsPlay.java) [![url](link.png)](https://www.codingame.com/training/medium/a-childs-play)
 - [Aneo](https://github.com/gctom57/codingame/blob/master/Medium/Aneo.java) [![url](link.png)](https://www.codingame.com/training/medium/aneo)
 - [Bender Episode 1](https://github.com/gctom57/codingame/blob/master/Medium/BenderEpisode1.java) [![url](link.png)](https://www.codingame.com/training/medium/bender-episode-1)
 - [CG Funge Interpreter](https://github.com/gctom57/codingame/blob/master/Medium/CGFungeInterpreter.java) [![url](link.png)](https://www.codingame.com/training/medium/cgfunge-interpreter)
